@@ -1,0 +1,14 @@
+$breakpoints: ("lg": 1920px, "md": 1280px, "sm": 960px, "xs": 600px);
+
+@each $name, $value in $breakpoints {
+  @media only screen and (max-width: $value) {
+	.#{$name}0 {
+	  display: none;
+	}
+	@for $g from 1 through 12 {
+	  .#{$name}#{$g} {
+		grid-column: span $g;
+	  }
+	}
+  }
+}
