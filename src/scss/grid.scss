@@ -1,0 +1,14 @@
+@for $g from 1 through 12 {
+  .grid#{$g} {
+	display: grid;
+	grid-template-columns: repeat($g, 1fr);
+  }
+
+  .g#{$g} {
+	grid-column: span $g;
+  }
+}
+
+.g0 {
+  display: none;
+}
