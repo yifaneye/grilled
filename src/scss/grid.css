@@ -110,4 +110,217 @@
   display: none;
 }
 
+@media only screen and (max-width: 1920px) {
+  .lg0 {
+    display: none;
+  }
+
+  .lg1 {
+    grid-column: span 1;
+  }
+
+  .lg2 {
+    grid-column: span 2;
+  }
+
+  .lg3 {
+    grid-column: span 3;
+  }
+
+  .lg4 {
+    grid-column: span 4;
+  }
+
+  .lg5 {
+    grid-column: span 5;
+  }
+
+  .lg6 {
+    grid-column: span 6;
+  }
+
+  .lg7 {
+    grid-column: span 7;
+  }
+
+  .lg8 {
+    grid-column: span 8;
+  }
+
+  .lg9 {
+    grid-column: span 9;
+  }
+
+  .lg10 {
+    grid-column: span 10;
+  }
+
+  .lg11 {
+    grid-column: span 11;
+  }
+
+  .lg12 {
+    grid-column: span 12;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  .md0 {
+    display: none;
+  }
+
+  .md1 {
+    grid-column: span 1;
+  }
+
+  .md2 {
+    grid-column: span 2;
+  }
+
+  .md3 {
+    grid-column: span 3;
+  }
+
+  .md4 {
+    grid-column: span 4;
+  }
+
+  .md5 {
+    grid-column: span 5;
+  }
+
+  .md6 {
+    grid-column: span 6;
+  }
+
+  .md7 {
+    grid-column: span 7;
+  }
+
+  .md8 {
+    grid-column: span 8;
+  }
+
+  .md9 {
+    grid-column: span 9;
+  }
+
+  .md10 {
+    grid-column: span 10;
+  }
+
+  .md11 {
+    grid-column: span 11;
+  }
+
+  .md12 {
+    grid-column: span 12;
+  }
+}
+@media only screen and (max-width: 960px) {
+  .sm0 {
+    display: none;
+  }
+
+  .sm1 {
+    grid-column: span 1;
+  }
+
+  .sm2 {
+    grid-column: span 2;
+  }
+
+  .sm3 {
+    grid-column: span 3;
+  }
+
+  .sm4 {
+    grid-column: span 4;
+  }
+
+  .sm5 {
+    grid-column: span 5;
+  }
+
+  .sm6 {
+    grid-column: span 6;
+  }
+
+  .sm7 {
+    grid-column: span 7;
+  }
+
+  .sm8 {
+    grid-column: span 8;
+  }
+
+  .sm9 {
+    grid-column: span 9;
+  }
+
+  .sm10 {
+    grid-column: span 10;
+  }
+
+  .sm11 {
+    grid-column: span 11;
+  }
+
+  .sm12 {
+    grid-column: span 12;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .xs0 {
+    display: none;
+  }
+
+  .xs1 {
+    grid-column: span 1;
+  }
+
+  .xs2 {
+    grid-column: span 2;
+  }
+
+  .xs3 {
+    grid-column: span 3;
+  }
+
+  .xs4 {
+    grid-column: span 4;
+  }
+
+  .xs5 {
+    grid-column: span 5;
+  }
+
+  .xs6 {
+    grid-column: span 6;
+  }
+
+  .xs7 {
+    grid-column: span 7;
+  }
+
+  .xs8 {
+    grid-column: span 8;
+  }
+
+  .xs9 {
+    grid-column: span 9;
+  }
+
+  .xs10 {
+    grid-column: span 10;
+  }
+
+  .xs11 {
+    grid-column: span 11;
+  }
+
+  .xs12 {
+    grid-column: span 12;
+  }
+}
+
 /*# sourceMappingURL=grid.css.map */

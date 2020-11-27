@@ -1,2 +1,0 @@
-sass grid.scss grid.css --watch
-sass breakpoints.scss breakpoints.css --watch
