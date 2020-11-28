@@ -1,4 +1,4 @@
-# Grid
+# grilled
 
 A library for responsive grid system 🏁
 
@@ -17,31 +17,31 @@ I sometimes wanted to have 10 columns, sometimes 5 columns, sometimes 9 columns 
 Add this line to HTML file
 
 ```
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/grid@1.0.0/dist/css/grid.min.css">
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/grilled@1.0.0/dist/css/grilled.min.css">
 ```
 
 ✅
 
 ### Using NPM
 
-Install grid package using npm
+Install the 'grilled' package using npm
 
 ```
-npm i grid
+npm i grilled
 ```
 
 then \
 add this line to index.js
 
 ```
-require('grid');
+require('grilled');
 ```
 
 OR \
 add this line to HTML file
 
 ```
-<link rel="stylesheet" type="text/css" href="grid/dist/css/grid.min.css">
+<link rel="stylesheet" type="text/css" href="grilled/dist/css/grilled.min.css">
 ```
 
 ✅
@@ -99,7 +99,7 @@ e.g.
 
 * **Yifan Ai** - *Initial work*
 
-See also the list of [contributors](https://github.com/yifaneye/grid/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/yifaneye/grilled/graphs/contributors) who participated in this project.
 
 ## License
 
