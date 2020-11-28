@@ -17,7 +17,7 @@ I sometimes wanted to have 10 columns, sometimes 5 columns, sometimes 9 columns 
 Add this line to HTML file
 
 ```
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/grilled@1.0.0/dist/css/grilled.min.css">
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/grilled@1.1.0/dist/css/grilled.min.css">
 ```
 
 ✅
