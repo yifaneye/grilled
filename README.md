@@ -6,7 +6,7 @@ A library for responsive grid system 🏁
 
 ## Demo
 
-👉 [Website Demo](https://unpkg.com/grilled@1.1.0/dist/grid.html)
+👉 [Website Demo](https://unpkg.com/grilled@1.1.1/dist/grid.html)
 
 OR
 
@@ -27,7 +27,7 @@ I sometimes wanted to have 10 columns, sometimes 5 columns, sometimes 9 columns 
 Add this line to HTML file
 
 ```
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/grilled@1.1.0/dist/css/grid.min.css">
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/grilled@1.1.1/dist/css/grid.min.css">
 ```
 
 ✅
