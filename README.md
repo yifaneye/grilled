@@ -17,7 +17,7 @@ I sometimes wanted to have 10 columns, sometimes 5 columns, sometimes 9 columns 
 Add this line to HTML file
 
 ```
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/grilled@1.1.0/dist/css/grilled.min.css">
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/grilled@1.1.0/dist/css/grid.min.css">
 ```
 
 ✅
@@ -41,7 +41,7 @@ OR \
 add this line to HTML file
 
 ```
-<link rel="stylesheet" type="text/css" href="grilled/dist/css/grilled.min.css">
+<link rel="stylesheet" type="text/css" href="grilled/dist/css/grid.min.css">
 ```
 
 ✅
@@ -51,10 +51,10 @@ add this line to HTML file
 Containers: grid1 ~ grid12 \
 Items: xs0 ~ xs12, sm0 ~ sm12, md0 ~ md12, lg0 ~ lg12, g0 ~ g12
 
-| Screen Width    |0px   |600px|960px|1280px|1920px|
-|----------------:|:-----|:-----|:-----|:------|:------|
-|Range Key        |xs    |sm   |md   |lg    |g     |
-|Number of Columns|0 ~ 12|
+| Screen Width    |0px   |600px |960px |1280px |1920px |
+|----------------:|:-----|:---- |:-----|:------|:------|
+|Range Key        |xs    |sm    |md    |lg     |g      |
+|Number of Columns|0 ~ 12|0 ~ 12|0 ~ 12|0 ~ 12 |0 ~ 12 |
 
 e.g.
 
